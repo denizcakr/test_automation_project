@@ -8,8 +8,8 @@
 
 ## Raporlama
 - Allure raporları üretir
-- Çalıştır: `npm run test`
-- Rapor aç: `npm run report`
+- Çalıştırır: `npm run test`
+- Rapor açar: `npm run report`
 
 ## Kurulum
 ```
